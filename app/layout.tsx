@@ -9,9 +9,8 @@ import { CurrencyProvider } from "@/components/crm/currency"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "CRM App",
+  description: "A CRM application",
 }
 
 export default function RootLayout({
