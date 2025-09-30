@@ -9,8 +9,8 @@ import { CurrencyProvider } from "@/components/crm/currency"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "CRM App",
-  description: "A CRM application",
+  title: "ByteDocker CRM",
+  description: "A CRM application built with Next.js and Geist UI",
 }
 
 export default function RootLayout({
